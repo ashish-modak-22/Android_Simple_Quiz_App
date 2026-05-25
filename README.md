@@ -33,8 +33,10 @@ At the end of the quiz, the user receives a scorecard displaying:
 
 
 ## Quiz Screen
-<img src="ScreenShots/pic2.jpeg" width="250"/> 
-<img src="ScreenShots/pic3.jpeg" width="250"/> 
+<p align="center">
+  <img src="ScreenShots/pic2.jpeg" width="250"/>
+  <img src="ScreenShots/pic3.jpeg" width="250"/>
+</p>
 
 ---
 
