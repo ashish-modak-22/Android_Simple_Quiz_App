@@ -29,18 +29,18 @@ At the end of the quiz, the user receives a scorecard displaying:
 # 📸 Screenshots
 
 ## Home Screen
-<!-- ![Home Screen](ScreenShots/pic1.jpeg) -->
+![Home Screen](ScreenShots/pic1.jpeg) 
 
 ---
 
 ## Quiz Screen
-<!-- ![Quiz Screen for correct answer](ScreenShots/pic2.jpeg) -->
-<!-- ![Quiz Screen for wrong answer](ScreenShots/pic3.jpeg) -->
+![Quiz Screen for correct answer](ScreenShots/pic2.jpeg) 
+![Quiz Screen for wrong answer](ScreenShots/pic3.jpeg) 
 
 ---
 
 ## Result Screen
-<!-- ![Result Screen](ScreenShots/pic4.jpeg) -->
+![Result Screen](ScreenShots/pic4.jpeg) 
 
 ---
 
