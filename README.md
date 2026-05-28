@@ -106,7 +106,7 @@ QuizApp/
 ├── gradlew
 ├── gradlew.bat
 └── settings.gradle.kts
-```
+
 
 ---
 
